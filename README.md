@@ -32,7 +32,8 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   Project Link : https://github.com/prachigithub/Semantic_Spotter
+   git clone https://github.com/prachigithub/Semantic_Spotter.git
    cd generative-fashion-search
    
 # Execute search engine with below code
